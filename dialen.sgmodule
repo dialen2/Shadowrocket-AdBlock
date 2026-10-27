@@ -1,5 +1,5 @@
 #!name=dialen自用模块
-#!desc=广告拦截 | 启动页净化 | 番茄小说去广告 | 白名单防误杀 | 版本 v1.9
+#!desc=广告拦截 | 启动页净化 | 番茄小说去广告 | 白名单防误杀 | 版本 v1.0
 
 [Rule]
 # --- 白名单(放行, 优先级最高) ---
@@ -135,7 +135,7 @@ DOMAIN,jsdelivr.net,DIRECT
 DOMAIN,cdn.jsdelivr.net,DIRECT
 DOMAIN,fastly.jsdelivr.net,DIRECT
 DOMAIN,gcore.jsdelivr.net,DIRECT
-DOMAIN,raw.githubusercontent.com,DIRECT
+#DOMAIN,raw.githubusercontent.com,DIRECT
 DOMAIN,github.com,DIRECT
 DOMAIN,githubusercontent.com,DIRECT
 DOMAIN,gitlab.com,DIRECT
