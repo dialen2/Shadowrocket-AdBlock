@@ -135,10 +135,10 @@ DOMAIN,jsdelivr.net,DIRECT
 DOMAIN,cdn.jsdelivr.net,DIRECT
 DOMAIN,fastly.jsdelivr.net,DIRECT
 DOMAIN,gcore.jsdelivr.net,DIRECT
-#DOMAIN,raw.githubusercontent.com,DIRECT
-DOMAIN,github.com,DIRECT
-DOMAIN,githubusercontent.com,DIRECT
-DOMAIN,gitlab.com,DIRECT
+#DOMAIN,raw.githubusercontent.com,PROXY
+#DOMAIN,github.com,PROXY
+#DOMAIN,githubusercontent.com,PROXY
+#DOMAIN,gitlab.com,PROXY
 DOMAIN,stackoverflow.com,DIRECT
 DOMAIN,mail.qq.com,DIRECT
 DOMAIN,mail.163.com,DIRECT
