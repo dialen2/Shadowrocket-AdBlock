@@ -296,8 +296,6 @@ DOMAIN-SUFFIX,voice.gcloudcs.com,DIRECT
 DOMAIN-SUFFIX,openspeech.cn,DIRECT
 DOMAIN-SUFFIX,7moor.com,DIRECT
 DOMAIN-SUFFIX,tpns.tencent.com,DIRECT
-#DOMAIN-SUFFIX,github.com,DIRECT
-#DOMAIN-SUFFIX,githubusercontent.com,DIRECT
 DOMAIN-SUFFIX,shouji.sougou.com,DIRECT
 DOMAIN-SUFFIX,queniucf.com,DIRECT
 DOMAIN-SUFFIX,wscdns.com,DIRECT
