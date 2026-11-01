@@ -1,8 +1,8 @@
-# XiaoQi-sgmodule
+# dialen-sgmodule
 
 小火箭（Shadowrocket）自用聚合去广告模块。
 
-> 本仓库为个人自用，仅作模块托管，规则不定期更新。
+> 本仓库fork小七后自改自用，仅作模块托管，规则不定期更新。
 
 ## 模块作用
 
