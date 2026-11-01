@@ -20,8 +20,7 @@
 仓库更新后，以下地址即为最新版（jsDelivr 有几分钟缓存）：
 
 ```
-https://raw.githubusercontent.com/SherryBX/XiaoQi-sgmodule/main/xiaoqi.sgmodule
-https://fastly.jsdelivr.net/gh/SherryBX/XiaoQi-sgmodule@main/xiaoqi.sgmodule
+https://raw.githubusercontent.com/dialen2/Shadowrocket-AdBlock/refs/heads/main/dialen.sgmodule
 ```
 
 安装：Shadowrocket → 首页「配置」→ 模块 →「+」→ 输入上述 URL。
