@@ -33,3 +33,4 @@ https://raw.githubusercontent.com/dialen2/Shadowrocket-AdBlock/refs/heads/main/d
   
 ## 更新记录
 - V1.0 删除GitHub域名相关的直连规则。
+- V1.1 删除URL-REGEX,/api/account/,DIRECT；某些网站例如nodeseek查看主页需要走代理
