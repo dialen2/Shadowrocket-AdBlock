@@ -30,3 +30,6 @@ https://raw.githubusercontent.com/dialen2/Shadowrocket-AdBlock/refs/heads/main/d
 - URL 级规则（URL-REGEX）与 [Script] 需要开启 MITM 解密才能匹配 HTTPS 流量；域名级拦截不受影响。请确保 Shadowrocket 已安装并信任 CA 证书。
 - [Script] 引用远程脚本（raw.githubusercontent.com），国内网络拉取可能需要代理。
 - 通配符黑名单中 7 条超宽泛模式（`ad.*`、`ads-*`、`ad-*.com` 等）已刻意跳过，避免误杀正常网站。
+  
+## 更新记录
+- V1.0 删除GitHub域名相关的直连规则。
