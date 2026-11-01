@@ -1,5 +1,5 @@
 #!name=dialen自用模块
-#!desc=广告拦截 | 启动页净化 | 番茄小说去广告 | 白名单防误杀 | 版本 v1.0
+#!desc=广告拦截 | 启动页净化 | 番茄小说去广告 | 白名单防误杀 | 版本 v1.1
 
 [Rule]
 # --- 白名单(放行, 优先级最高) ---
@@ -340,7 +340,6 @@ URL-REGEX,/api/oauth/,DIRECT
 URL-REGEX,/api/token/,DIRECT
 URL-REGEX,/api/user/,DIRECT
 URL-REGEX,/api/profile/,DIRECT
-URL-REGEX,/api/account/,DIRECT
 # --- 域名黑名单(拦截) ---
 DOMAIN,1500020991.vodplayer.wxamedia.com,REJECT
 DOMAIN,1500022744.vodplayer.wxamedia.com,REJECT
